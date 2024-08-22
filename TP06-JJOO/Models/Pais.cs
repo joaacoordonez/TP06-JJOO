@@ -1,3 +1,4 @@
+namespace TP06_JJOO.Models;
 public class Pais
 {
     public int IdPais {get; set;}

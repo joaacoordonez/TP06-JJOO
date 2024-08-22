@@ -1,3 +1,4 @@
+namespace TP06_JJOO.Models;
 public class Deportista
 {
     public int IdDeportista {get; set;}
